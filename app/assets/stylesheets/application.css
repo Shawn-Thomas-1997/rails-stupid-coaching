@@ -13,3 +13,38 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.link {
+  text-align: center;
+  color: #78abf7;
+  text-decoration: none;
+}
+
+.question {
+  background-color: rgb(204, 200, 200);
+  padding: 20px;
+  margin-left:80px;
+  margin-right:80px;
+}
+
+.answer {
+  background-color: rgb(166, 195, 237);
+  padding: 20px;
+  margin-left:80px;
+  margin-right:80px;
+}
